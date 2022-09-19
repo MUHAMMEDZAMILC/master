@@ -1,6 +1,6 @@
 # master
 
-A new Flutter project.
+A third Flutter Project Design.
 
 ## Getting Started
 
